@@ -17,7 +17,7 @@ array (
 
 /**
  * Handles registration and login of users.
- *
+ ***
  */
 class Auth {
 
